@@ -19,6 +19,6 @@ Agradecimentos ao Prof. Alexandre Donizeti Alves pela orientação do projeto, b
 ---
 
 ## Contato
-Fabio Cachone cachone.fabio@aluno.ufabc.edu.br
-Igor Santos igor.santos@aluno.ufabc.edu.br
+Fabio Cachone cachone.fabio@aluno.ufabc.edu.br\
+Igor Santos igor.santos@aluno.ufabc.edu.br\
 Ingrid Maciel ingrid.m@aluno.ufabc.edu.br
